@@ -1,0 +1,18 @@
+# This is just a temp file to hold the IP Address  of Cloud VM #
+
+ipaddr.txt
+==========
+
+peer A:
+3.10.190.48
+
+Peer B:
+18.130.186.5
+
+Orderer:
+3.8.156.193 #
+
+Fabric-CA:
+18.208.245.251
+
+
